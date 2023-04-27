@@ -1,6 +1,6 @@
 # reactNative
 
-*node*
+*node
 *npm*
 *git*
 *expo - npm install --global expo cli*
