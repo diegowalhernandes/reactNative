@@ -1,3 +1,3 @@
 # reactNative
 
-*npm install --global expo cli
+*npm install --global expo cli*
